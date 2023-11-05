@@ -1,0 +1,4 @@
+[core]
+    remote = localpc
+['remote "localpc"']
+    url = //KALOYANS-LAPTOP/DVC_Storage
