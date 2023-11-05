@@ -75,6 +75,10 @@ docs/_build/
 .pybuilder/
 target/
 
+# DVC and MLRUNS
+.dvc/cache/
+mlruns/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
